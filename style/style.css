@@ -7,7 +7,7 @@ header {
 }
 
 .main-header {
-    background-image: url(../images/Banner\ Image.png);
+    background-image: url(../images/Banner\Image.png);
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
@@ -227,7 +227,7 @@ h5 {
 
 
 .img-section {
-    background-image: url(../images/Rectangle\ 2.png);
+    background-image: url(../images/Rectangle\2.png);
 
     /* width: 1320px; */
     /* gap: 250px;
